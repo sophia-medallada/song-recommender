@@ -1,0 +1,42 @@
+Fearless	Fearless	Romantic
+Love Story	Fearless	Romantic
+You Belong With Me	Fearless	Romantic
+Enchanted	Speak Now 	Romantic
+Long Live	Speak Now 	Proud
+All Too Well	Red	Sad
+22	Red	Happy
+We Are Never Ever Getting Back Together	Red	Powerful
+I knew You Were Trouble	Red	Powerful
+Style	1989	Happy
+Blank Space	1989	Powerful
+Shake It Off	1989	Happy
+Wildest Dreams	1989	Romantic
+Bad Blood 	1989	Powerful
+...Ready For It?	Reputation	Powerful
+Delicate	Reputation	Happy
+Don't Blame Me	Reputation	Powerful
+Look What You Made Me	Reputation	Powerful
+Miss Americana & The Heartbreak Prince	Lover 	Happy
+Cruel Summer	Lover 	Happy
+The Man	Lover 	Powerful
+Lover	Lover 	Romantic
+The Archer	Lover 	Powerful
+Tis The Damn Season	Evermore	Calm
+Willow	Evermore	Sad
+Marjorie	Evermore	Calm
+Champagne Problems	Evermore	Sad
+Tolerate It	Evermore	Sad
+The 1	Folklore	Calm
+Betty	Folklore	Calm
+The Last Great American Dynasty	Folklore	Calm
+August	Folklore	Calm
+Illicit Affairs	Folklore	Powerful
+My Tears Ricochet	Folklore	Sad
+Cardigan	Folklore	Calm
+Lavender Haze	Midnights	Powerful
+Anti-Hero	Midnights	Sad
+Midnight Rain	Midnights	Happy
+Vigilante Shit	Midnights	Powerful
+Bejeweled	Midnights 	Proud
+Mastermind	Midnights	Happy
+Karma	Midnights	Happy
